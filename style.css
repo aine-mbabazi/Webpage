@@ -1,0 +1,31 @@
+#grid{
+    display: flex;
+    border: none;
+    grid-template-columns: 50% 50%;
+    padding: 20px 20px;
+    column-gap: 50px;
+    
+}
+
+.account{
+    margin: 0 auto;
+    border: none;
+    border-left: 1px solid purple;
+    
+    padding: 20px;
+
+}
+
+.welcome{
+    padding-left: 50px;
+
+
+
+}
+
+.name{
+    display: inline-flex;
+}
+
+
+
